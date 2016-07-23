@@ -1,4 +1,4 @@
-package ru.academit_school.shapes;
+package ru.academit_school;
 
 public class Main {
     public static void main(String[] args) {
